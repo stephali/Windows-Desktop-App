@@ -1,2 +1,2 @@
 # desktop-app
-![screenshot](desktop app.PNG)
+ ![screenshot](desktop app.png) 
